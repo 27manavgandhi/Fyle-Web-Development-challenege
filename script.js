@@ -1,5 +1,6 @@
 const API_URL = 'https://api.github.com';
 
+
 let searchInput = document.getElementById('search-input');
 let searchBtn = document.getElementById('search-button');
 let profileElement = document.querySelector('.profile');
