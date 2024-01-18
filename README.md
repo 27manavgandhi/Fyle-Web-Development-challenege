@@ -38,5 +38,5 @@ GitHub User Search is a simple and efficient tool that allows users to search fo
 
 ### Hosting
 
-- The web app is hosted and can be accessed at [Your Hosted Web App Link](https://fyle-web-development-challenge.vercel.app/).
+- The web app is hosted and can be accessed at [Live Link](https://fyle-web-development-challenge.vercel.app/).
 
